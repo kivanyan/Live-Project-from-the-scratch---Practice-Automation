@@ -1,0 +1,95 @@
+2021-12-07 21:03:05,684: - INFO:
+
+2021-12-07 21:03:05,686: - INFO:====== WebDriver manager ======
+2021-12-07 21:03:05,794: - INFO:Current google-chrome version is 96.0.4664
+2021-12-07 21:03:05,795: - INFO:Get LATEST driver version for 96.0.4664
+2021-12-07 21:03:06,014: - INFO:Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-07 21:03:10,903: - INFO:--------'contact_us_error' test starts------------
+2021-12-07 21:03:20,762: - INFO:The driver was successfully opened
+2021-12-07 21:03:20,789: - INFO:The element was successfully presented
+2021-12-07 21:03:22,507: - INFO:The element was successfully found anh clicked
+2021-12-07 21:03:22,838: - INFO:The element was successfully presented
+2021-12-07 21:03:23,645: - INFO:The element was successfully found anh clicked
+2021-12-07 21:03:23,704: - INFO:The element was successfully presented
+2021-12-07 21:03:23,941: - INFO:The element was successfully found anh clicked
+2021-12-07 21:03:23,970: - INFO:The element was successfully presented
+2021-12-07 21:03:24,329: - INFO:The data was successfully sent
+2021-12-07 21:03:24,360: - INFO:The element was successfully presented
+2021-12-07 21:03:24,639: - INFO:The data was successfully sent
+2021-12-07 21:03:24,680: - INFO:The element was successfully presented
+2021-12-07 21:03:26,041: - INFO:The element was successfully found anh clicked
+2021-12-07 21:03:26,079: - INFO:The element was successfully presented
+2021-12-07 21:03:26,119: - INFO:There is 1 error
+The message cannot be blank.
+2021-12-07 21:03:26,119: - INFO:Error message is displayed
+2021-12-07 21:03:26,119: - INFO:----------'contact_us_error' test finished--------
+2021-12-07 21:03:36,705: - INFO:
+
+2021-12-07 21:03:36,706: - INFO:====== WebDriver manager ======
+2021-12-07 21:03:36,793: - INFO:Current google-chrome version is 96.0.4664
+2021-12-07 21:03:36,794: - INFO:Get LATEST driver version for 96.0.4664
+2021-12-07 21:03:37,048: - INFO:Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-07 21:03:40,221: - INFO:-----------'registration' test starts-----------
+2021-12-07 21:03:47,006: - INFO:The driver was successfully opened
+2021-12-07 21:03:47,006: - INFO:sign in
+2021-12-07 21:03:47,191: - INFO:The element was successfully presented
+2021-12-07 21:03:49,436: - INFO:The element was successfully found anh clicked
+2021-12-07 21:03:50,570: - INFO:The element was successfully presented
+2021-12-07 21:03:50,922: - INFO:The data was successfully sent
+2021-12-07 21:03:50,923: - INFO:Email address for create an account: jQbsDH6mj5@phCJM.com
+2021-12-07 21:03:50,950: - INFO:The element was successfully presented
+2021-12-07 21:03:51,087: - INFO:The element was successfully found anh clicked
+2021-12-07 21:03:53,280: - INFO:Navigate to 'Register' page
+2021-12-07 21:03:53,299: - INFO:The element was successfully presented
+2021-12-07 21:03:53,390: - INFO:The element was successfully found anh clicked
+2021-12-07 21:03:53,414: - INFO:The element was successfully presented
+2021-12-07 21:03:53,628: - INFO:The data was successfully sent
+2021-12-07 21:03:53,665: - INFO:The element was successfully presented
+2021-12-07 21:03:53,848: - INFO:The data was successfully sent
+2021-12-07 21:03:53,884: - INFO:The element was successfully presented
+2021-12-07 21:03:54,054: - INFO:The data was successfully sent
+2021-12-07 21:03:54,088: - INFO:The element was successfully presented
+2021-12-07 21:03:54,277: - INFO:The data was successfully sent
+2021-12-07 21:03:54,326: - INFO:The element was successfully presented
+2021-12-07 21:03:54,515: - INFO:The data was successfully sent
+2021-12-07 21:03:54,550: - INFO:The element was successfully presented
+2021-12-07 21:03:54,792: - INFO:The data was successfully sent
+2021-12-07 21:03:54,815: - INFO:The element was successfully presented
+2021-12-07 21:03:54,996: - INFO:The data was successfully sent
+2021-12-07 21:03:55,027: - INFO:The element was successfully presented
+2021-12-07 21:03:55,099: - INFO:The element was successfully found anh clicked
+2021-12-07 21:03:55,130: - INFO:The element was successfully presented
+2021-12-07 21:03:55,169: - INFO:The element was successfully found anh clicked
+2021-12-07 21:03:55,193: - INFO:The element was successfully presented
+2021-12-07 21:03:55,371: - INFO:The data was successfully sent
+2021-12-07 21:03:55,401: - INFO:The element was successfully presented
+2021-12-07 21:03:55,468: - INFO:The element was successfully found anh clicked
+2021-12-07 21:03:55,492: - INFO:The element was successfully presented
+2021-12-07 21:03:55,538: - INFO:The element was successfully found anh clicked
+2021-12-07 21:03:55,574: - INFO:The element was successfully presented
+2021-12-07 21:03:55,798: - INFO:The data was successfully sent
+2021-12-07 21:03:55,822: - INFO:The element was successfully presented
+2021-12-07 21:03:56,015: - INFO:The data was successfully sent
+2021-12-07 21:03:56,039: - INFO:The element was successfully presented
+2021-12-07 21:03:58,755: - INFO:The element was successfully found anh clicked
+2021-12-07 21:03:58,767: - INFO:User is registered
+2021-12-07 21:03:58,767: - INFO:-----------'registration' test finished----------
+2021-12-07 21:04:09,998: - INFO:
+
+2021-12-07 21:04:09,999: - INFO:====== WebDriver manager ======
+2021-12-07 21:04:10,075: - INFO:Current google-chrome version is 96.0.4664
+2021-12-07 21:04:10,075: - INFO:Get LATEST driver version for 96.0.4664
+2021-12-07 21:04:10,291: - INFO:Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-07 21:04:13,637: - INFO:------------'sign_in' test starts------------
+2021-12-07 21:04:19,812: - INFO:The driver was successfully opened
+2021-12-07 21:04:19,835: - INFO:The element was successfully presented
+2021-12-07 21:04:22,057: - INFO:The element was successfully found anh clicked
+2021-12-07 21:04:22,150: - INFO:The element was successfully presented
+2021-12-07 21:04:22,451: - INFO:The data was successfully sent
+2021-12-07 21:04:22,474: - INFO:The element was successfully presented
+2021-12-07 21:04:22,734: - INFO:The data was successfully sent
+2021-12-07 21:04:22,758: - INFO:The element was successfully presented
+2021-12-07 21:04:24,443: - INFO:The element was successfully found anh clicked
+2021-12-07 21:04:24,444: - INFO:Qwallity user is successfully signed in
+2021-12-07 21:04:24,444: - INFO:User Qwallity is signed in
+2021-12-07 21:04:24,444: - INFO:----------'sign_in' test finished------------

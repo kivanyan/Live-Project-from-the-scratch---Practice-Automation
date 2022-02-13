@@ -1,0 +1,6 @@
+2022-02-13 10:07:47,402: - INFO:
+
+2022-02-13 10:07:47,403: - INFO:====== WebDriver manager ======
+2022-02-13 10:07:47,463: - INFO:Current google-chrome version is 98.0.4758
+2022-02-13 10:07:47,465: - INFO:Get LATEST driver version for 98.0.4758
+2022-02-13 10:07:47,886: - INFO:Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
